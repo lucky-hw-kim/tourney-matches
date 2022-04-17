@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# First simple data project with react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The main focus of this project is to practice passing down props to children elements, get a better understanding of props.children, and practice playing with data structures.
 
 ## Available Scripts
 
